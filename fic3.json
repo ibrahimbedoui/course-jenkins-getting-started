@@ -1,11 +1,5 @@
-{
-	"data": [{
-			"location": "EU",
-			"env": ["DEV", "PRD", "UAT"]
-		},
-		{
-			"location": "US",
-			"env": ["DEV", "PRD", "UAT", "DR", "VD"]
-		}
-	]
-}
+ { "data": [{"location" : "EU",
+              "env": ["DEV", "PRD", "UAT"]},
+             {"location" : "US",
+              "env": ["DEV", "PRD", "UAT", "DR", "VD"]}
+]}
