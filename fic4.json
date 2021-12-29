@@ -1,0 +1,9 @@
+-envName: qa11_FA
+ user: qa11
+ applicatif: app010
+ query: app016
+ 
+-envName: pr11_FA
+ user: pr11
+ applicatif: app007
+ query: app011,app012,app013,app014
